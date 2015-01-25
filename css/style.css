@@ -19,6 +19,9 @@ body {
 	background:#ffffff;
 	font-size: 100%;
 }
+.table-collapsed {
+	width: 0%;
+}
 /* start header */
 .header_bg{
 	border-top:8px groove #3b3b3b;
@@ -36,6 +39,7 @@ body {
 	font-size: 1em;
 	text-transform: uppercase;
 	color: #3B3B3B;
+	/*maroon: color: #99393C;*/
 	text-decoration: none;
 	font-family: 'texgyreadventorregular';
 }
@@ -212,7 +216,7 @@ body {
 .para{
 	font-size: 14px;
 	line-height: 1.8em;
-	color: #868686;
+	/*color: #868686;*/
 }
 .images_1_of_4 a{
 	position: relative;
@@ -341,12 +345,12 @@ body {
 	margin: 0 0 20px;
 	text-transform: capitalize;
 	font-size: 3em;
-	color: #3b3b3b;
+	/*color: #3b3b3b;*/
 	font-family: 'texgyreadventorregular';
 }
 .technology h4{
 	font-size: 22px;
-	color: #5b5b5b;
+	/*color: #5b5b5b;*/
 	font-weight: 100;
 	text-transform: capitalize;
 	display: block;
