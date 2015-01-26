@@ -670,8 +670,8 @@ body {
 	width: 99.3333%;
 	background: #ffffff;
 	outline: none;
-	color: #c0c0c0;
-	font-size: 0.8725em;
+	/*color: #c0c0c0;*/
+	font-size: 1.2em;
 	border: 1px solid #ECECEC;
 	-webkit-appearance: none;
 	resize: none;
