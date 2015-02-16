@@ -440,6 +440,15 @@ body {
 	text-decoration: none;
 }
 
+.minority_response {
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.minority_text {
+	padding-top: 20px;
+	font-style: italic;
+}
+
 .read_more a{
 	position: relative;
 	z-index: 1;
